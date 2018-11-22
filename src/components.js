@@ -1,8 +1,8 @@
 // Components
-import Back from './components/Back'
+import Back from "./components/Back";
 
 const Components = {
-    Back,
-}
+  Back
+};
 
 export default Components;
